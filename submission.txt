@@ -1,0 +1,11 @@
+Homework Assignment #1
+Creating Your Personal HTML Homepage
+
+Name: Thirunavukkarasu Palaniappa
+Live URL: https://codd.cs.gsu.edu/~tpalaniappa1/web/hw1/index.html
+GitHub: https://github.com/thiruna31
+LinkedIn: https://www.linkedin.com/in/thirunavukkarasu-palaniappa-28194228b/
+
+Notes:
+The live URL and GitHub repository should be verified after deployment.
+HTML and CSS validation should be completed before submission.
